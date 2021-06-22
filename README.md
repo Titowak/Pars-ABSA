@@ -32,5 +32,22 @@ These attributes are:
 	polarity: sentiment polarity of aspect term
 
 
+In case of using our dataset please cite to our paper as following:
+@article{DBLP:journals/corr/abs-1908-01815,
+  author    = {Taha Shangipour Ataei and
+               Kamyar Darvishi and
+               Behrouz Minaei{-}Bidgoli and
+               Sauleh Eetemadi},
+  title     = {Pars-ABSA: An Aspect-based Sentiment Analysis Dataset in Persian},
+  journal   = {CoRR},
+  volume    = {abs/1908.01815},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1908.01815},
+  archivePrefix = {arXiv},
+  eprint    = {1908.01815},
+  timestamp = {Fri, 09 Aug 2019 12:15:56 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1908-01815.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 
 
