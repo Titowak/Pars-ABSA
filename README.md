@@ -1,5 +1,4 @@
 # Pars-ABSA
-				****Pars-ABSA Dataset****
 This file demonstrates how to use Pars-ABSA corpus associated files.
 
 Pars-ABSA consists of following files:
