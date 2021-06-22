@@ -1,6 +1,4 @@
 # Pars-ABSA
-This file demonstrates how to use Pars-ABSA corpus associated files.
-
 Pars-ABSA consists of following files:
 	Pars-ABSA_all
 	Pars-ABSA_xml
