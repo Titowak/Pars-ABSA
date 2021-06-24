@@ -1,4 +1,5 @@
 # Pars-ABSA
+Pars-ABSA is a benchmark corpora on Persian presented in https://arxiv.org/abs/1908.01815 for aspect-based sentimnet analysis.
 Pars-ABSA consists of following files:
 	Pars-ABSA_all
 	Pars-ABSA_xml
