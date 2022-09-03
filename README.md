@@ -1,5 +1,5 @@
 # Pars-ABSA
-Pars-ABSA is a benchmark corpora on Persian presented in https://arxiv.org/abs/1908.01815 for aspect-based sentimnet analysis.
+Pars-ABSA is a benchmark corpora on Persian presented in http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.763.pdf and https://arxiv.org/abs/1908.01815 for aspect-based sentimnet analysis.
 Pars-ABSA consists of following files:
 	Pars-ABSA_all
 	Pars-ABSA_xml
@@ -34,21 +34,16 @@ These attributes are:
 In case of using our dataset please cite to our paper as following:
 
 
-@article{DBLP:journals/corr/abs-1908-01815,
-  author    = {Taha Shangipour Ataei and
-               Kamyar Darvishi and
-               Behrouz Minaei{-}Bidgoli and
-               Sauleh Eetemadi},
-  title     = {Pars-ABSA: An Aspect-based Sentiment Analysis Dataset in Persian},
-  journal   = {CoRR},
-  volume    = {abs/1908.01815},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1908.01815},
-  archivePrefix = {arXiv},
-  eprint    = {1908.01815},
-  timestamp = {Fri, 09 Aug 2019 12:15:56 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1908-01815.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@InProceedings{shangipourataei-EtAl:2022:LREC,
+  author    = {Shangipour ataei, Taha  and  Darvishi, Kamyar  and  Javdan, Soroush  and  Minaei-Bidgoli, Behrouz  and  Eetemadi, Sauleh},
+  title     = {Pars-ABSA: a Manually Annotated Aspect-based Sentiment Analysis Benchmark on Farsi Product Reviews},
+  booktitle      = {Proceedings of the Language Resources and Evaluation Conference},
+  month          = {June},
+  year           = {2022},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {7056--7060},
+  abstract  = {Due to the increased availability of online reviews, sentiment analysis witnessed a thriving interest from researchers. Sentiment analysis is a computational treatment of sentiment used to extract and understand the opinions of authors. While many systems were built to predict the sentiment of a document or a sentence, many others provide the necessary detail on various aspects of the entity (i.e., aspect-based sentiment analysis). Most of the available data resources were tailored to English and the other popular European languages. Although Farsi is a language with more than 110 million speakers, to the best of our knowledge, there is a lack of proper public datasets on aspect-based sentiment analysis for Farsi. This paper provides a manually annotated Farsi dataset, Pars-ABSA, annotated and verified by three native Farsi speakers. The dataset consists of 5,114 positive, 3,061 negative and 1,827 neutral data samples from 5,602 unique reviews. Moreover, as a baseline, this paper reports the performance of some aspect-based sentiment analysis methods focusing on transfer learning on Pars-ABSA.},
+  url       = {https://aclanthology.org/2022.lrec-1.763}
 }
-
 
